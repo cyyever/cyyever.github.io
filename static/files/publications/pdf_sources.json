@@ -1,0 +1,10 @@
+{
+  "07_TextualGradient_ICLR2025.pdf": {
+    "title": "Can Textual Gradient Work in Federated Learning?",
+    "venue": "ICLR 2025",
+    "version": "Official conference proceedings PDF",
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/1a25185fe1b0d46241de7738ea320710-Paper-Conference.pdf",
+    "retrieved": "2026-10-27",
+    "sha256": "869de3c5b17719d83e693210d905710c0b10430e76b5407dd80a54cd5f7f827f"
+  }
+}
