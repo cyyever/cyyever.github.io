@@ -1,0 +1,25 @@
+{
+  "07_TextualGradient_ICLR2025.pdf": {
+    "title": "Can Textual Gradient Work in Federated Learning?",
+    "venue": "ICLR 2025",
+    "version": "Official conference proceedings PDF",
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/1a25185fe1b0d46241de7738ea320710-Paper-Conference.pdf",
+    "retrieved": "2026-10-27",
+    "sha256": "869de3c5b17719d83e693210d905710c0b10430e76b5407dd80a54cd5f7f827f"
+  },
+  "15_FedMedLoRA_npjDigitalMedicine2026_ArticleInPress.pdf": {
+    "title": "Toward federated large language models in medicine: a parameter-efficient framework for privacy-preserving, multi-institutional adaptation",
+    "authors": "Anran Li, Yuanyuan Chen, Wenjun Long, et al.",
+    "venue": "npj Digital Medicine",
+    "doi": "10.1038/s41746-026-03064-9",
+    "version": "Publisher Article in Press (accepted manuscript); not the final Version of Record",
+    "source_url": "https://www.nature.com/articles/s41746-026-03064-9_reference.pdf",
+    "publisher_url": "https://www.nature.com/articles/s41746-026-03064-9",
+    "published_online": "2026-08-15",
+    "retrieved": "2026-10-27",
+    "license": "CC BY-NC-ND 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "modifications": "None; publisher PDF retained byte-for-byte",
+    "sha256": "c8d57ef1888fa63ee1d82eb2e93274a025a4b9b43b9eab551f7e68a0bfc2a7e6"
+  }
+}
