@@ -21,5 +21,31 @@
     "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
     "modifications": "None; publisher PDF retained byte-for-byte",
     "sha256": "c8d57ef1888fa63ee1d82eb2e93274a025a4b9b43b9eab551f7e68a0bfc2a7e6"
+  },
+  "14_VAB_ICML2026Workshop.pdf": {
+    "title": "Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?",
+    "venue": "ICML 2026 Workshop on Human-AI Co-Creativity",
+    "version": "Official camera-ready workshop report (non-archival)",
+    "source_url": "https://genaicreativity.org/icml2026/files/36/36_paper.pdf",
+    "publisher_url": "https://genaicreativity.org/icml2026/",
+    "pages": 68,
+    "retrieved": "2026-10-28",
+    "sha256": "9cfd0de53b6c7379342d9e2f5f23509a5c55a4151b790722c07c39822eae63ab",
+    "modifications": "None; original PDF retained byte-for-byte"
+  },
+  "16_FedMBDP_TKDE2026.pdf": {
+    "title": "Efficient Federated Learning With Mean Block Difference-Based Global Aggregation and Patience-Based Local Training",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "doi": "10.1109/TKDE.2026.3684304",
+    "version": "Publisher Version of Record; author-supplied IEEE Xplore download",
+    "source_url": "https://ieeexplore.ieee.org/document/11481795",
+    "volume": 38,
+    "issue": 7,
+    "pages": "4270-4286",
+    "pdf_pages": 17,
+    "copyright_notice": "IEEE copyright and institutional access notice remain in the unchanged PDF.",
+    "retrieved": "2026-10-28",
+    "sha256": "97eadafa19e1c80556e417ef93dc3e3059b505cd8afd644ed1f1f68f184316ad",
+    "modifications": "None; original PDF retained byte-for-byte"
   }
 }
