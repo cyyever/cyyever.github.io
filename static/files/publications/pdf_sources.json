@@ -47,5 +47,19 @@
     "retrieved": "2026-10-28",
     "sha256": "97eadafa19e1c80556e417ef93dc3e3059b505cd8afd644ed1f1f68f184316ad",
     "modifications": "None; original PDF retained byte-for-byte"
+  },
+  "17_VAB_COLM2026.pdf": {
+    "title": "Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?",
+    "venue": "COLM 2026",
+    "version": "Official final PDF in COLM 2026 pre-proceedings; DOI assignment pending",
+    "source_url": "https://proceedings.colm.cc/paper_files/paper/2026/file/b1ccad30cbede18aa76c8d5cf408fa4e-Paper-Conference.pdf",
+    "publisher_url": "https://proceedings.colm.cc/paper_files/paper/2026/hash/b1ccad30cbede18aa76c8d5cf408fa4e-Abstract-Conference.html",
+    "volume_status_url": "https://proceedings.colm.cc/paper_files/paper/2026",
+    "version_note": "The official volume page states that PDFs and abstracts are final, while the volume remains pre-proceedings pending DOI assignment, expected by January 2027.",
+    "retrieved": "2026-10-28",
+    "modifications": "None; official PDF retained byte-for-byte",
+    "sha256": "334db27d15201cce034949b595222cb922e702722bfdbe1590ec7eec1806b45e",
+    "pages": 75,
+    "author_order_note": "The final PDF lists Yuanyuan Chen fourth; the proceedings landing page lists him sixth. The PDF order is used in the CV and citation metadata, with the discrepancy recorded."
   }
 }
